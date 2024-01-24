@@ -1,0 +1,11 @@
+body {
+  margin: 10;
+  padding: 10;
+}
+
+#container {
+  position: absolute;
+  touch-action: auto;
+  width: 80%; 
+  height: 80%;
+}
